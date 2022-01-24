@@ -1,0 +1,9 @@
+
+1) Title: Particle Filtering Motion Tracking
+
+My goal is to use simulated particles to determine 
+where items are and tracking these items using that.
+
+2) random walks with changing distributions 
+
+3) Multiple Particles following an item.
