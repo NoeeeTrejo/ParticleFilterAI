@@ -4,6 +4,7 @@ an AI that tracks pixels that have the most change
 ![Working AI!](working.gif)
 
 ## Purpose: 
+A final project for my [environmental simulations class](http://militzer.berkeley.edu/EPS109/final_projects_2021/index.html). Here's the [presentation](http://militzer.berkeley.edu/EPS109/final_projects_2021/index.html)!
 I took a class about simulations, so I decided to make a simulation of a random walk, but using particle filtering which something I learned in my AI class. 
-I applied some filters to reduce noise, and used cv2 to read in the video! 
+I applied some filters to reduce noise, and used cv2 to read in the video!
 
